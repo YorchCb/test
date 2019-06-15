@@ -1,0 +1,384 @@
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 01:04:37
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+-> Error starting fristresource, resource(s) not found: C:\RAGEMP\server-files\bridge\resources\fristresource\compiled\netcoreapp2.2\ImmersiveLife.dll
+WARNING: Some assemblies are not fully loaded from memory at runtime, you may have to copy your assembly into 'runtime\' folder.
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 01:05:26
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+-> Resource fristresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 01:07:37
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+fristresource: loading commands.. found 3 command(s)
+fristresource: loaded 3 commands(s)
+fristresource: loading remote events.. found 1 remote event(s)
+fristresource: loaded 1 remote event(s)
+-> Resource fristresource started!
+Started! Waiting for connections..
+[Login Attempt] Username Max | Password: 123
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 13:01:15
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+-> Error starting 'fristresource'
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'MySql.Data, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d'. El sistema no puede encontrar el archivo especificado.
+   at new fristresource.Connection()
+   at new fristresource.Main() in C:\ragemp\server-files\bridge\resources\fristresource\Main.cs:line 12
+   --- End of inner exception stack trace ---
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean wrapExceptions, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean wrapExceptions, Boolean skipCheckThis, Boolean fillCache)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic, Boolean wrapExceptions)
+   at GTANetworkInternals.GameServer.InstantiateScripts(Assembly targetAssembly, String resourceName)+MoveNext()
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   at GTANetworkInternals.GameServer.StartResource(String resourceName, String parent)
+
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 13:02:52
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+-> Error starting 'fristresource'
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'MySql.Data, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d'. El sistema no puede encontrar el archivo especificado.
+   at new fristresource.Connection()
+   at new fristresource.Main() in C:\RAGEMP\server-files\bridge\resources\fristresource\Main.cs:line 12
+   --- End of inner exception stack trace ---
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean wrapExceptions, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean wrapExceptions, Boolean skipCheckThis, Boolean fillCache)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic, Boolean wrapExceptions)
+   at GTANetworkInternals.GameServer.InstantiateScripts(Assembly targetAssembly, String resourceName)+MoveNext()
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Collections.Generic.List`1.InsertRange(Int32 index, IEnumerable`1 collection)
+   at GTANetworkInternals.GameServer.StartResource(String resourceName, String parent)
+
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 13:45:03
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+fristresource: loading commands.. found 3 command(s)
+fristresource: loaded 3 commands(s)
+fristresource: loading remote events.. found 1 remote event(s)
+fristresource: loaded 1 remote event(s)
+-> Resource fristresource started!
+Started! Waiting for connections..
+[Login Attempt] Username Max | Password: 123
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 14:26:19
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+fristresource: loading commands.. found 3 command(s)
+fristresource: loaded 3 commands(s)
+fristresource: loading remote events.. found 1 remote event(s)
+fristresource: loaded 1 remote event(s)
+-> Resource fristresource started!
+Started! Waiting for connections..
+[Login Attempt] Username Max | Password: 123
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 14:53:49
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+fristresource: loading commands.. found 2 command(s)
+fristresource: loaded 2 commands(s)
+fristresource: loading remote events.. found 1 remote event(s)
+fristresource: loaded 1 remote event(s)
+-> Resource fristresource started!
+Started! Waiting for connections..
+[Login Attempt] Username Max | Password: 123
+[Login Attempt] Username Max | Password: 123
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 14:55:35
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+fristresource: loading commands.. found 2 command(s)
+fristresource: loaded 2 commands(s)
+fristresource: loading remote events.. found 1 remote event(s)
+fristresource: loaded 1 remote event(s)
+-> Resource fristresource started!
+Started! Waiting for connections..
+[Login Attempt] Username max | Password: 123
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+   at Stream MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at void MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at void MySql.Data.MySqlClient.NativeDriver.Open()
+   at void MySql.Data.MySqlClient.Driver.Open()
+   at Driver MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at Driver MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at Driver MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at Driver MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at Driver MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at void MySql.Data.MySqlClient.MySqlConnection.Open()
+   at void fristresource.Main.OnPlayerLoginAttempt(Client player, string username, string password) in C:\RAGEMP\server-files\bridge\resources\fristresource\Main.cs:line 34
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at void GTANetworkInternals.RemoteEventParser.Parse(Client sender, ulong eventNameHash, object[] args)
+   at void GTANetworkInternals.RemoteEventHandler.Parse(Client sender, ulong eventNameHash, object[] arguments)
+[Login Attempt] Username Max | Password: 123
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 15:51:49
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+fristresource: loading commands.. found 2 command(s)
+fristresource: loaded 2 commands(s)
+fristresource: loading remote events.. found 1 remote event(s)
+fristresource: loaded 1 remote event(s)
+-> Resource fristresource started!
+Started! Waiting for connections..
+[Login Attempt] Username Max | Password: 123
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 16:03:24
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+fristresource: loading commands.. found 2 command(s)
+fristresource: loaded 2 commands(s)
+fristresource: loading remote events.. found 1 remote event(s)
+fristresource: loaded 1 remote event(s)
+-> Resource fristresource started!
+Started! Waiting for connections..
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+[Login Attempt] Username test | Password: 123
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 16:11:13
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+fristresource: loading commands.. found 2 command(s)
+fristresource: loaded 2 commands(s)
+fristresource: loading remote events.. found 1 remote event(s)
+fristresource: loaded 1 remote event(s)
+-> Resource fristresource started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 16:15:20
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+fristresource: loading commands.. found 2 command(s)
+fristresource: loaded 2 commands(s)
+fristresource: loading remote events.. found 1 remote event(s)
+fristresource: loaded 1 remote event(s)
+-> Resource fristresource started!
+Started! Waiting for connections..
+[Login Attempt] Username test | Password: test
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> MySql.Data.MySqlClient.MySqlException: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException: Access denied for user 'root'@'localhost' (using password: YES)
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySqlPacket MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   --- End of inner exception stack trace ---
+   at void MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySqlPacket MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at void MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(bool reset)
+   at void MySql.Data.MySqlClient.NativeDriver.Open()
+   at void MySql.Data.MySqlClient.Driver.Open()
+   at Driver MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at Driver MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at Driver MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at Driver MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at Driver MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at void MySql.Data.MySqlClient.MySqlConnection.Open()
+   at void fristresource.Main.OnPlayerLoginAttempt(Client player, string username, string password) in C:\RAGEMP\server-files\bridge\resources\fristresource\Main.cs:line 38
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at void GTANetworkInternals.RemoteEventParser.Parse(Client sender, ulong eventNameHash, object[] args)
+   at void GTANetworkInternals.RemoteEventHandler.Parse(Client sender, ulong eventNameHash, object[] arguments)
+[Login Attempt] Username test | Password: test
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> MySql.Data.MySqlClient.MySqlException: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException: Access denied for user 'root'@'localhost' (using password: YES)
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySqlPacket MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   --- End of inner exception stack trace ---
+   at void MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySqlPacket MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at void MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(bool reset)
+   at void MySql.Data.MySqlClient.NativeDriver.Open()
+   at void MySql.Data.MySqlClient.Driver.Open()
+   at Driver MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at Driver MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at Driver MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at Driver MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at Driver MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at void MySql.Data.MySqlClient.MySqlConnection.Open()
+   at void fristresource.Main.OnPlayerLoginAttempt(Client player, string username, string password) in C:\RAGEMP\server-files\bridge\resources\fristresource\Main.cs:line 38
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at void GTANetworkInternals.RemoteEventParser.Parse(Client sender, ulong eventNameHash, object[] args)
+   at void GTANetworkInternals.RemoteEventHandler.Parse(Client sender, ulong eventNameHash, object[] arguments)
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 16:39:49
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+fristresource: loading commands.. found 2 command(s)
+fristresource: loaded 2 commands(s)
+fristresource: loading remote events.. found 1 remote event(s)
+fristresource: loaded 1 remote event(s)
+-> Resource fristresource started!
+Started! Waiting for connections..
+[Login Attempt] Username test | Password: test
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> MySql.Data.MySqlClient.MySqlException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''users' WHERE 'username' =test AND 'password' = test' at line 1
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+   at ResultSet MySql.Data.MySqlClient.Driver.NextResult(int statementId, bool force)
+   at bool MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySqlDataReader MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at void fristresource.Main.OnPlayerLoginAttempt(Client player, string username, string password) in C:\RAGEMP\server-files\bridge\resources\fristresource\Main.cs:line 41
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at void GTANetworkInternals.RemoteEventParser.Parse(Client sender, ulong eventNameHash, object[] args)
+   at void GTANetworkInternals.RemoteEventHandler.Parse(Client sender, ulong eventNameHash, object[] arguments)
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 16:52:37
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+fristresource: loading commands.. found 2 command(s)
+fristresource: loaded 2 commands(s)
+fristresource: loading remote events.. found 1 remote event(s)
+fristresource: loaded 1 remote event(s)
+-> Resource fristresource started!
+Started! Waiting for connections..
+[Login Attempt] Username test | Password: test
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> MySql.Data.MySqlClient.MySqlException: Unknown column 'test' in 'where clause'
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+   at ResultSet MySql.Data.MySqlClient.Driver.NextResult(int statementId, bool force)
+   at bool MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySqlDataReader MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at void fristresource.Main.OnPlayerLoginAttempt(Client player, string username, string password) in C:\RAGEMP\server-files\bridge\resources\fristresource\Main.cs:line 41
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at void GTANetworkInternals.RemoteEventParser.Parse(Client sender, ulong eventNameHash, object[] args)
+   at void GTANetworkInternals.RemoteEventHandler.Parse(Client sender, ulong eventNameHash, object[] arguments)
+[Login Attempt] Username testdfd | Password: test
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> MySql.Data.MySqlClient.MySqlException: Unknown column 'testdfd' in 'where clause'
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+   at ResultSet MySql.Data.MySqlClient.Driver.NextResult(int statementId, bool force)
+   at bool MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySqlDataReader MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at void fristresource.Main.OnPlayerLoginAttempt(Client player, string username, string password) in C:\RAGEMP\server-files\bridge\resources\fristresource\Main.cs:line 41
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor, bool wrapExceptions)
+   at object System.Reflection.RuntimeMethodInfo.Invoke(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+   at void GTANetworkInternals.RemoteEventParser.Parse(Client sender, ulong eventNameHash, object[] args)
+   at void GTANetworkInternals.RemoteEventHandler.Parse(Client sender, ulong eventNameHash, object[] arguments)
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 16:57:24
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+fristresource: loading commands.. found 2 command(s)
+fristresource: loaded 2 commands(s)
+fristresource: loading remote events.. found 1 remote event(s)
+fristresource: loaded 1 remote event(s)
+-> Resource fristresource started!
+Started! Waiting for connections..
+[Login Attempt] Username test | Password: test
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 16:58:35
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+fristresource: loading commands.. found 2 command(s)
+fristresource: loaded 2 commands(s)
+fristresource: loading remote events.. found 1 remote event(s)
+fristresource: loaded 1 remote event(s)
+-> Resource fristresource started!
+Started! Waiting for connections..
+[Login Attempt] Username dfd | Password: sdf
+[Login Attempt] Username test | Password: test
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 15/6/2019 17:12:17
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting fristresource resource..
+fristresource: loading scripts.. found 1 script(s)
+fristresource: instantiating fristresource.Main..
+fristresource: loading commands.. found 2 command(s)
+fristresource: loaded 2 commands(s)
+fristresource: loading remote events.. found 1 remote event(s)
+fristresource: loaded 1 remote event(s)
+-> Resource fristresource started!
+Started! Waiting for connections..
+[Login Attempt] Username test | Password: test
